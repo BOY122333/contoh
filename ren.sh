@@ -639,9 +639,9 @@ echo "          Maka Terus lah BerJuang Dan Berusaha:)"
 sleep 1
 echo "          Karna Suatu Hari Nanti Kamu akan Mendapatkannya:)"
 sleep 1
-echo "          𝐓𝐄𝐑𝐈𝐌𝐀𝐀𝐊𝐒𝐈𝐇 𝐒𝐔𝐃𝐀𝐇 𝐌𝐄𝐍𝐆𝐆𝐔𝐍𝐀𝐊𝐀𝐍 𝐓𝐎𝐎𝐋𝐒 𝐒𝐀𝐘𝐀❗❗❗"
+echo "          𝐓𝐄𝐑𝐈𝐌𝐀 𝐀𝐊𝐒𝐈𝐇 𝐒𝐔𝐃𝐀𝐇 𝐌𝐄𝐍𝐆𝐆𝐔𝐍𝐀𝐊𝐀𝐍 𝐓𝐎𝐎𝐋𝐒 𝐒𝐀𝐘𝐀❗❗❗"
 sleep 1
 echo "          𝗦𝗘𝗟𝗔𝗠𝗔𝗧 𝗧𝗜𝗡𝗚𝗚𝗔𝗟❗❗❗"
 sleep 1
 exit
-fi 
+fi
