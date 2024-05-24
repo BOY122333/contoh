@@ -16,7 +16,7 @@ echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK GW YAA☺☺☺"
 clear
 break
 else
-echo "\x1B[31m Username atau password salah. Silakan coba lagi."
+echo " Username atau password salah. Silakan coba lagi."
 fi
 done
 }
@@ -644,4 +644,3 @@ sleep 1
 echo "          𝗦𝗘𝗟𝗔𝗠𝗔𝗧 𝗧𝗜𝗡𝗚𝗚𝗔𝗟❗❗❗"
 sleep 1
 exit
-fi
