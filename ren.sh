@@ -607,7 +607,7 @@ if [ $ren9999 == UPDATE ]
 then
 clear
 sleep 1
-git clone https://github.com/BOY122333/ToolsRenv1.git
+git clone https://github.com/BOY122333/contoh.git
 cd ToolsRenv1
 bash REN.sh
 fi
