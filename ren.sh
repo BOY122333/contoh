@@ -609,6 +609,8 @@ sleep 1
 git clone https://github.com/BOY122333/contoh.git
 cd contoh
 bash ren.sh
+REN
+99999
 fi
 if [ $ren9999 == FOLLOW ]
 then
@@ -641,7 +643,6 @@ sleep 1
 echo "          sebelum keluar dari ToolsREN alangkah baiknya FOLLOW AKUN TIKTOK SAYA DULU☺"
 sleep 1
 echo            xdg-open "https://www.tiktok.com/@sistem9999?_t=8mcOEzM4BFa&_r=1"
-sleep 1
 echo "          𝐓𝐄𝐑𝐈𝐌𝐀𝐀𝐊𝐒𝐈𝐇 𝐒𝐔𝐃𝐀𝐇 𝐌𝐄𝐍𝐆𝐆𝐔𝐍𝐀𝐊𝐀𝐍 𝐓𝐎𝐎𝐋𝐒 𝐒𝐀𝐘𝐀❗❗❗"
 sleep 1
 echo "          𝗦𝗘𝗟𝗔𝗠𝗔𝗧 𝗧𝗜𝗡𝗚𝗚𝗔𝗟❗❗❗"
