@@ -16,7 +16,7 @@ echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK GW YAA☺☺☺"
 clear
 break
 else
-echo " Username atau password salah. Silakan coba lagi."
+echo -e "\x1B[31m Username atau password salah. Silakan coba lagi."
 fi
 done
 }
@@ -34,9 +34,9 @@ echo
 echo
 echo -e "                        V̳E̳R̳S̳I̳ U̳P̳D̳A̳T̳E̳ T̳E̳R̳B̳A̳R̳U̳"
 echo -e "                         𝐁𝐲: 𝐑𝐄𝐍𝟗𝟗𝟗𝟗 ☕🗿"
-echo -e "               ||=======================================||"
-echo -e "               ||        WELCOME TO TOOLSRENv1          ||"
-echo -e "               ||=======================================||"
+echo -e "\x1B[31m       ||=======================================||"
+echo -e "\x1B[31m       ||        WELCOME TO TOOLSRENv1          ||"
+echo -e "\x1B[31m       ||=======================================||"
 echo -e "               ||               MENU SPAM               ||"
 echo -e "               ||=======================================||"
 echo -e "               ||1.spam otp no stop V1                  ||"
