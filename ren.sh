@@ -608,8 +608,8 @@ then
 clear
 sleep 1
 git clone https://github.com/BOY122333/contoh.git
-cd ToolsRenv1
-bash REN.sh
+cd contoh
+bash ren.sh
 fi
 if [ $ren9999 == FOLLOW ]
 then
