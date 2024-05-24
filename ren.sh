@@ -9,8 +9,6 @@ read -s -p "Password: " password
 echo
 if [ "$username" == "$expected_username" ] && [ "$password" == "$expected_password" ]; then
 echo "Login berhasil"
-sleep 1
-xdg-open "https://www.tiktok.com/@sistem9999?_t=8mcOEzM4BFa&_r=1"
 echo "FOLLOW AKUN GW SU🗿👍"
 echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK GW YAA☺☺☺"
 clear
@@ -94,8 +92,8 @@ echo -e "               ||                MENU DLL               ||"
 echo -e "               ||=======================================||"
 echo -e "               ||UPDATE                                 ||"
 echo -e "               ||FOLLOW                                 ||"
-echo -e "               ||< bug >                                ||"
-echo -e "               ||< 0 > EXIT                             ||"
+echo -e "               ||bug> laporkan bug                      ||"
+echo -e "               ||0> EXIT                                ||"
 echo -e "               ||=======================================||"
 echo
 read -p "               PILIH MENU:" ren9999
@@ -621,7 +619,6 @@ echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK AKU☺☺☺"
 echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK AKU☺☺☺"
 echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK AKU☺☺☺"
 fi
-
 if [ $ren9999 == bug ]
 then
 clear
@@ -641,7 +638,11 @@ echo "          Maka Terus lah BerJuang Dan Berusaha:)"
 sleep 1
 echo "          Karna Suatu Hari Nanti Kamu akan Mendapatkannya:)"
 sleep 1
-echo "          𝐓𝐄𝐑𝐈𝐌𝐀 𝐀𝐊𝐒𝐈𝐇 𝐒𝐔𝐃𝐀𝐇 𝐌𝐄𝐍𝐆𝐆𝐔𝐍𝐀𝐊𝐀𝐍 𝐓𝐎𝐎𝐋𝐒 𝐒𝐀𝐘𝐀❗❗❗"
+echo "          sebelum keluar dari ToolsREN alangkah baiknya FOLLOW AKUN TIKTOK SAYA DULU☺"
+sleep 1
+echo            xdg-open "https://www.tiktok.com/@sistem9999?_t=8mcOEzM4BFa&_r=1"
+sleep 1
+echo "          𝐓𝐄𝐑𝐈𝐌𝐀𝐀𝐊𝐒𝐈𝐇 𝐒𝐔𝐃𝐀𝐇 𝐌𝐄𝐍𝐆𝐆𝐔𝐍𝐀𝐊𝐀𝐍 𝐓𝐎𝐎𝐋𝐒 𝐒𝐀𝐘𝐀❗❗❗"
 sleep 1
 echo "          𝗦𝗘𝗟𝗔𝗠𝗔𝗧 𝗧𝗜𝗡𝗚𝗚𝗔𝗟❗❗❗"
 sleep 1
