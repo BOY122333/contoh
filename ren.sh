@@ -9,15 +9,16 @@ read -s -p "Password: " password
 echo
 if [ "$username" == "$expected_username" ] && [ "$password" == "$expected_password" ]; then
 echo "Login berhasil!"
-clear
-echo -e "FOLLOW AKUN GW SU🗿👍"
-clear
+echo
+break
+echo "FOLLOW AKUN GW SU🗿👍"
+break
 xdg-open "https://www.tiktok.com/@sistem9999?_t=8mcOEzM4BFa&_r=1"
 echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK GW YAA☺☺☺"
 clear
 break
 else
-echo "Username atau password salah. Silakan coba lagi."
+echo "\x1B[31m Username atau password salah. Silakan coba lagi."
 fi
 done
 }
