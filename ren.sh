@@ -110,6 +110,7 @@ if [ $ren9999 == 2 ]
 then
 clear
 sleep 1
+xdg-open "y8tVgsCk4V5SRu1LPruNqITBCDR2LE0S0vZmuezQz1Wz3LPZF"
 cd $HOME
 apt update && apt upgrade
 pkg install bash curl wget jq
@@ -120,8 +121,7 @@ git clone https://github.com/Sxp-ID/Brutal-W4
  cd Brutal-W4
 git pull
 make install
- ./main
-xdg-open "y8tVgsCk4V5SRu1LPruNqITBCDR2LE0S0vZmuezQz1Wz3LPZF"
+./main
 fi
 if [ $reen9999 == 3 ]
 then
