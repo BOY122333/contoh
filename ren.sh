@@ -121,12 +121,13 @@ git clone https://github.com/Sxp-ID/Brutal-W4
 git pull
 make install
  ./main
+echo -e"salin token nya y8tVgsCk4V5SRu1LPruNqITBCDR2LE0S0vZmuezQz1Wz3LPZF"
 fi
 if [ $ren9999 == 3 ]
 then
 clear
 sleep 1
-xdg-open "https://tinyurl.com/uppdatesnew"
+xdg-open "https://tinyurl.com/upmainesnew"
 fi
 if [ $ren9999 == 4 ]
 then
