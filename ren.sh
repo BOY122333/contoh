@@ -121,7 +121,7 @@ git clone https://github.com/Sxp-ID/Brutal-W4
 git pull
 make install
  ./main
-echo -e"salin token nya apabila di ruruh memasukan token y8tVgsCk4V5SRu1LPruNqITBCDR2LE0S0vZmuezQz1Wz3LPZF"
+xdg-open "y8tVgsCk4V5SRu1LPruNqITBCDR2LE0S0vZmuezQz1Wz3LPZF"
 fi
 if [ $reen9999 == 3 ]
 then
