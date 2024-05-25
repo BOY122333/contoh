@@ -10,7 +10,7 @@ echo
 if [ "$username" == "$expected_username" ] && [ "$password" == "$expected_password" ]; then
 echo "Login berhasil"
 xdg-open "https://www.tiktok.com/@sistem9999?_t=8mE62usv4Br&_r=1"
-echo "FOLLOW AKUN GW SU🗿👍"
+echo -p "FOLLOW AKUN GW SU🗿👍"
 clear
 echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK GW YAA☺☺☺"
 clear
