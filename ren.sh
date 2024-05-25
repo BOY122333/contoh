@@ -95,7 +95,7 @@ echo -e "                ||=======================================||"
 echo -e "                ||UPDATE                                 ||"
 echo -e "                ||FOLLOW                                 ||"
 echo -e "                ||bug> laporkan bug                      ||"
-echo -e "                ||0> EXIT                                ||"
+echo -e "                ||0>                                ||"
 echo -e "                ||=======================================||"
 echo
 read -p "                PILIH MENU:" ren9999
