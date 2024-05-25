@@ -608,6 +608,7 @@ if [ $ren9999 == UPDATE ]
 then
 clear
 sleep 1
+git pull
 git clone https://github.com/BOY122333/contoh.git
 cd contoh
 bash ren.sh
