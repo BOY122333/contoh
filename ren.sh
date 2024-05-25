@@ -39,9 +39,9 @@ echo -e "                ||        WELCOME TO TOOLSRENv1          ||"
 echo -e "                ||=======================================||"
 echo -e "                ||               MENU SPAM               ||"
 echo -e "                ||=======================================||"
-echo -e "                ||1.spam otp no stop V1                  ||"
+echo -e "                ||1.spam otp no stop V1 <off>            ||"
 echo -e "                ||2.spam otp no stop V2                  ||"
-echo -e "                ||3.spam otp no stop V3                  ||"
+echo -e "                ||3.spam otp no stop V3 <off>            ||"
 echo -e "                ||4.spam otp no stop V4                  ||"
 echo -e "                ||5.spam otp no stop V5                  ||"
 echo -e "                ||6.spam otp no stop V6                  ||"
@@ -104,7 +104,7 @@ then
 clear
 sleep 1
 pkg install python
-xdg-open "git clone https://tinyurl.com/uppdatesnew"
+xdg-open "https://tinyurl.com/uppdatesnew"
 fi
 if [ $ren9999 == 2 ]
 then
@@ -123,7 +123,7 @@ if [ $ren9999 == 3 ]
 then
 clear
 sleep 1
-xdg-open "git clone https://tinyurl.com/uppdatesnew"
+xdg-open "https://tinyurl.com/uppdatesnew"
 fi
 if [ $ren9999 == 4 ]
 then
@@ -430,7 +430,7 @@ if [ $ren9999 == 41 ]
 then
 clear
 sleep 1
-xdg-open "git clone https://tinyurl.com/uppdatesnew"
+xdg-open "https://tinyurl.com/uppdatesnew"
 fi
 if [ $ren9999 == 42 ]
 then
