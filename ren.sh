@@ -110,14 +110,17 @@ if [ $ren9999 == 2 ]
 then
 clear
 sleep 1
-pkg update && pkg upgrade
-pkg install nano
+cd $HOME
+apt update && apt upgrade
+pkg install bash curl wget jq
+pkg install python python-pip
+pkg install make clang
 pkg install git
-pkg install python
-git clone https://github.com/AmmarrBN/Tools-WhatsApp.git
-bash install.sh
-cd Tools-WhatsApp
-python main.py
+git clone https://github.com/Sxp-ID/Brutal-W4
+ cd Brutal-W4
+git pull
+make install
+ ./main
 fi
 if [ $ren9999 == 3 ]
 then
