@@ -140,7 +140,7 @@ git pull
 make install
 ./main
 fi
-if [ $reen9999 == 3 ]
+if [ $ren9999 == 3 ]
 then
 clear
 sleep 1
