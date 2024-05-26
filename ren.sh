@@ -11,7 +11,24 @@ if [ "$username" == "$expected_username" ] && [ "$password" == "$expected_passwo
 echo "Login berhasil"
 xdg-open "https://www.tiktok.com/@sistem9999?_t=8mE62usv4Br&_r=1"
 echo "FOLLOW AKUN GW SU🗿👍"
-clear
+echo "FOLLOW AKUN GW SU🗿👍"
+echo "FOLLOW AKUN GW SU🗿👍"
+echo "FOLLOW AKUN GW SU🗿👍"
+echo "FOLLOW AKUN GW SU🗿👍"
+echo "FOLLOW AKUN GW SU🗿👍"
+echo "FOLLOW AKUN GW SU🗿👍"
+echo "FOLLOW AKUN GW SU🗿👍"
+echo "FOLLOW AKUN GW SU🗿👍"
+echo "FOLLOW AKUN GW SU🗿👍"
+echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK GW YAA☺☺☺"
+echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK GW YAA☺☺☺"
+echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK GW YAA☺☺☺"
+echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK GW YAA☺☺☺"
+echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK GW YAA☺☺☺"
+echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK GW YAA☺☺☺"
+echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK GW YAA☺☺☺"
+echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK GW YAA☺☺☺"
+echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK GW YAA☺☺☺"
 echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK GW YAA☺☺☺"
 clear
 break
@@ -32,71 +49,71 @@ echo -e   "\x1B[37m░░░██║░░░╚█████╔╝╚██�
 echo -e   "\x1B[37m░░░╚═╝░░░░╚════╝░░╚════╝░╚══════╝╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚══╝"
 echo
 echo
-echo -e "                           V̳E̳R̳S̳I̳ 5̳.̳0̳.̳0̳"
-echo -e "                          𝐁𝐲: 𝐑𝐄𝐍𝟗𝟗𝟗𝟗 ☕🗿"
-echo -e "                ||=======================================||"
-echo -e "                ||        WELCOME TO TOOLSRENv1          ||"
-echo -e "                ||=======================================||"
-echo -e "                ||               MENU SPAM               ||"
-echo -e "                ||=======================================||"
-echo -e "                ||1.spam otp no stop V1 <off>            ||"
-echo -e "                ||2.spam otp no stop V2                  ||"
-echo -e "                ||3.spam otp no stop V3 <off>            ||"
-echo -e "                ||4.spam otp no stop V4                  ||"
-echo -e "                ||5.spam otp no stop V5                  ||"
-echo -e "                ||6.spam otp no stop V6                  ||"
-echo -e "                ||7.spam otp no stop V7                  ||"
-echo -e "                ||8.spam otp no stop V8                  ||"
-echo -e "                ||9.spam otp no stop V9                  ||"
-echo -e "                ||10.spam otp no stop V10                ||"
-echo -e "                ||11.spam otp no stop V11                ||"
-echo -e "                ||12.spam otp no stop V12                ||"
-echo -e "                ||13.spam otp no stop V13                ||"
-echo -e "                ||14.spam otp no stop V14                ||"
-echo -e "                ||15.spam otp no stop V15                ||"
-echo -e "                ||=======================================||"
-echo -e "                ||         MENU PHISING & HACKING        ||"
-echo -e "                ||=======================================||"
-echo -e "                ||16..HACK KAMERA                        ||"
-echo -e "                ||17.HACK SOSMED                         ||"
-echo -e "                ||18.HACK CCTV                           ||"
-echo -e "                ||19.PANDORA BY SANZ                     ||"
-echo -e "                ||20.Sploit-Malicious                    ||"
-echo -e "                ||21.diejoubu                            ||"
-echo -e "                ||22.Lazymux                             ||"
-echo -e "                ||23.XPHISHER                            ||"
-echo -e "                ||24.OSGPT                               ||"
-echo -e "                ||25.NETHUNTER M                         ||"
-echo -e "                ||26.GABUT                               ||"
-echo -e "                ||27.sqlmap                              ||"
-echo -e "                ||28.TOOLSINSTALLERv3                    ||"
-echo -e "                ||29.Crack fb                            ||"
-echo -e "                ||30.Crack ig                            ||"
-echo -e "                ||31.instabot                            ||"
-echo -e "                ||32.caping                              ||"
-echo -e "                ||33.Tools ABD                           ||"
-echo -e "                ||34.Kirim virus < vbug >                ||"
-echo -e "                ||35.kandura viip                        ||"
-echo -e "                ||36.W0rm-GPT                            ||"
-echo -e "                ||37.tiktok bot                          ||"
-echo -e "                ||=======================================||"
-echo -e "                ||                MENU DDOS              ||"
-echo -e "                ||=======================================||"
-echo -e "                ||38.DDOS V1                             ||"
-echo -e "                ||39.DDOS V2                             ||"
-echo -e "                ||40.DDOS V3                             ||"
-echo -e "                ||41.DDOS V4 < off >                     ||"
-echo -e "                ||42.DDOS V5                             ||"
-echo -e "                ||43.DDOS V6                             ||"
-echo -e "                ||44.DDOS V7                             ||"
-echo -e "                ||=======================================||"
-echo -e "                ||                MENU DLL               ||"
-echo -e "                ||=======================================||"
-echo -e "                ||UPDATE                                 ||"
-echo -e "                ||FOLLOW                                 ||"
-echo -e "                ||bug> laporkan bug                      ||"
-echo -e "                ||0>EXIT                                 ||"
-echo -e "                ||=======================================||"
+echo -e "                       V̳E̳R̳S̳I̳ T̳E̳R̳B̳A̳R̳U̳ T̳O̳O̳L̳S̳R̳E̳N̳v̳2̳"
+echo -e "                            𝐁𝐲: 𝐑𝐄𝐍𝟗𝟗𝟗𝟗 ☕🗿"
+echo -e "\x1B[32m                      
+                ||=======================================||
+                ||        WELCOME TO TOOLSRENv2          ||
+                ||=======================================||
+                ||               MENU SPAM               ||
+                ||=======================================||
+                ||1.spam otp no stop V1 <off>            ||
+                ||2.spam otp no stop V2                  ||
+                ||3.spam otp no stop V3 <off>            ||
+                ||4.spam otp no stop V4                  ||
+                ||5.spam otp no stop V5                  ||
+                ||6.spam otp no stop V6                  ||
+                ||7.spam otp no stop V7                  ||
+                ||8.spam otp no stop V8                  ||
+                ||9.spam otp no stop V9                  ||
+                ||11.spam otp no stop V11                ||
+                ||12.spam otp no stop V12                ||
+                ||13.spam otp no stop V13                ||
+                ||14.spam otp no stop V14                ||
+                ||15.spam otp no stop V15                ||
+                ||=======================================||
+                ||         MENU PHISING & HACKING        ||
+                ||=======================================||
+                ||16..HACK KAMERA                        ||
+                ||17.HACK SOSMED                         ||
+                ||18.HACK CCTV                           ||
+                ||19.PANDORA BY SANZ                     ||
+                ||20.Sploit-Malicious                    ||
+                ||21.diejoubu                            ||
+                ||22.Lazymux                             ||
+                ||23.XPHISHER                            ||
+                ||24.OSGPT                               ||
+                ||25.NETHUNTER M                         ||
+                ||26.GABUT                               ||
+                ||27.sqlmap                              ||
+                ||28.TOOLSINSTALLERv3                    ||
+                ||29.Crack fb                            ||
+                ||30.Crack ig                            ||
+                ||31.instabot                            ||
+                ||33.Tools ABD                           ||
+                ||34.Kirim virus < vbug >                ||
+                ||35.kandura viip                        ||
+                ||36.W0rm-GPT                            ||
+                ||37.tiktok bot                          ||
+                ||=======================================||
+                ||                MENU DDOS              ||
+                ||=======================================||
+                ||38.DDOS V1                             ||
+                ||39.DDOS V2                             ||
+                ||40.DDOS V3                             ||
+                ||41.DDOS V4 < off >                     ||
+                ||42.DDOS V5                             ||
+                ||43.DDOS V6                             ||
+                ||44.DDOS V7                             ||
+                ||=======================================||
+                ||                MENU DLL               ||
+                ||=======================================||
+                ||UPDATE                                 ||
+                ||FOLLOW                                 ||
+                ||bug> laporkan bug                      ||
+                ||0> EXIT                                ||
+                ||=======================================||
+"
 echo
 read -p "                PILIH MENU:" ren9999
 if [ $ren9999 == 1 ]
@@ -613,9 +630,9 @@ then
 clear
 sleep 1
 git pull
-git clone https://github.com/BOY122333/contoh.git
-cd contoh
-bash ren.sh
+git clone https://github.com/BOY122333/contoh1.git
+cd contoh1
+bash renn.sh
 fi
 if [ $ren9999 == FOLLOW ]
 then
