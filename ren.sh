@@ -1,4 +1,4 @@
-xdg-open "https://wa.me/+6289519450908?text=Bang gw Mau beli Script ToolsRenv1"
+
 clear
 verify_credentials() {
 local expected_username="REN"
@@ -34,6 +34,7 @@ clear
 break
 else
 echo -e "\x1B[31m Username atau password salah. Silakan coba lagi."
+xdg-open "https://wa.me/+6289519450908?text=Bang gw Mau beli Script ToolsRenv1"
 fi
 done
 }
